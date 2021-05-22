@@ -9,4 +9,14 @@ The solutions are in Python. Everything is judged as correct, either in contest 
 * Round 1A - 2021:
    Append Sort,
    Hacked Exam and
-   Prime Time
+   Prime Time.
+   
+* Round 1B - 2021:
+   Broken Clock,
+   Digit Blocks and 
+   Subtransmutation.
+   
+* Round 1C - 2021:
+   Closest Pick,
+   Double or NOTing and
+   Roaring Years.
