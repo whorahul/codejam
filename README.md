@@ -21,3 +21,8 @@ The solutions are in Python. Everything is judged as correct, either in contest 
   - Closest Pick
   - Double or NOTing
   - Roaring Years
+- Round 2 - 2021
+  - Minimum Sort
+  - Matrygons
+  - Hidden Pancakes
+  - Retiling
